@@ -1,29 +1,25 @@
-    @media only screen and (max-width: 1281px) {
-        .btn > a{
+@media only screen and (max-width: 1281px) {
+    .btn > a{
         position: fixed;
         width: 13%;
         top: 46em;
         left: 1em;    
     }
-
     }
     @media only screen and (max-width: 835px) {
-        .btn > a{
+    .btn > a{
         position: fixed;
         width: 18%;
         top: 49em;
         left: 1em;    
     }
-
     }
-
-
     @media only screen and (max-width: 430px) and (min-width: 350px) {
     .btn > a{
         font-size: 1em;
         position: fixed;
         width: 32%;
-        top: 50em;
+        top: 56.1em;
         left: 1em;
     }
     .head > h1 {
@@ -38,7 +34,6 @@
         border-top: 0.5rem rgb(190, 33, 44) solid;
         transform: translateY(60px);
     }
-
     .modal > .table {
         margin: 0 auto;
         text-align: center;
