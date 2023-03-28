@@ -1,0 +1,12 @@
+Options -Indexes
+
+
+AuthType Basic
+AuthName "Acesso negado, não foi feito o login correto."
+AuthUserFile \xampp\htdocs\importante\Especificações-Cge/.htpasswd
+Require valid-user
+
+<FilesMatch "\.especificações-cge$">
+    Deny from all
+</FilesMtach>
+

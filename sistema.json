@@ -1,0 +1,760 @@
+[
+    {
+        "name": "Agatha",
+        "shortDetails": [
+            {"key": "Linguagem: ", "value": "PHP |"},
+            {"key": " Versão: ", "value": "7.4 |"},
+            {"key": " Framework: ", "value": "Yii |"},
+            {"key": " Versão: ", "value": "3.0 "}
+        ],
+      
+        "details": [               
+            {"key": "Application Name", "value": "My Application"},
+            {"key": "Application Version", "value": "1.0"},
+            {"key": "Currente Language", "value": "pt-BR (Brazil,Portuguese)"}
+        ]
+    },
+    {
+        "name": "SISPMPI",
+        "shortDetails": [
+            {"key": " Linguagem ", "value": "PHP |"},
+            {"key": " Banco de Dados ", "value": "MariaDB |"},
+            {"key": " Framework ", "value": "Yii |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+      
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk ", "value": "100gb"}
+
+        ],
+
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.20"},
+            {"key": "Memória RAM ", "value": " 16GB"},
+            {"key": "Hard Disk ", "value": " 300gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Framework Yii ", "value": " Versão do Yii 2.0.45"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": " Superintendente Central de Integridade e Controle Social"},
+            {"key": "Responsável ", "value": " Tatiane de Jesus Silva"},
+            {"key": "Contato ", "value": " tatiane.silva@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "SISDEN",
+        "shortDetails": [
+            {"key": " Linguagem ", "value": "PHP |"},
+            {"key": " Versão ", "value": "7.4 |"},
+            {"key": " Framework ", "value": "Yii |"},
+            {"key": " Versão ", "value": "3.0 "}
+        ],
+        
+        "details": [               
+            {"key": "Application Name", "value": "My Application"},
+            {"key": "Application Version", "value": "1.0"},
+            {"key": "Currente Language", "value": "pt-BR (Brazil,Portuguese)"}
+        ]
+    },
+    {
+        "name": "CKAN",
+        "shortDetails": [
+            {"key": " Linguagem ", "value": "PHP |"},
+            {"key": " Versão ", "value": "7.4 |"},
+            {"key": " Framework ", "value": "Yii |"},
+            {"key": " Versão ", "value": "3.0 "}
+        ],
+
+        "details": [               
+            {"key": "Application Name", "value": "My Application"},
+            {"key": "Application Version", "value": "1.0"},
+            {"key": "Currente Language", "value": "pt-BR (Brazil,Portuguese)"}
+        ]
+    },
+    {
+        "name": "PORTAL - CONSET",
+        "shortDetails": [
+            {"key": " Linguagem ", "value": "PHP |"},
+            {"key": " Banco De Dados ", "value": "MariaDB |"},
+            {"key": " CMS ", "value": "Joomla |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+        
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk ", "value": "100gb"}
+
+        ],
+
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.20"},
+            {"key": "Memória RAM ", "value": " 16GB"},
+            {"key": "Hard Disk ", "value": " 300gb"},
+            {"key": "Processador ", "value": "8 "}
+        ],
+        "bancodados": [
+            {"key": "Versão: ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": " Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": " CMS ", "value": "Joomla |"},
+            {"key": " Versão do Joomla ", "value": "3.8.7 |"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": " Conselho de Ética Pública"},
+            {"key": "Responsável ", "value": " Jonatan Agnelli Pires Generoso"},
+            {"key": "Contato ", "value": " jonatan.pires@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "Capacita",
+        "shortDetails": [
+            {"key": " Linguagem ", "value": "PHP |"},
+            {"key": " Bacno de Dados ", "value": "MariaDB |"},
+            {"key": " CMS ", "value": "Joomla |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk  ", "value": " 60GB"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.22"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Memória RAM ", "value": " 4GB"},
+            {"key": "Hard Disk  ", "value": " 60GB"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "CMS ", "value": " Joomla"},
+            {"key": "Versão do Joomla ", "value": " 4.1.2"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": "  Assessoria de Comunicação Social"},
+            {"key": "Responsável ", "value": " Ully Schreck"},
+            {"key": "Contato ", "value": " ully.schreck@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "Certidão",
+        "shortDetails": [
+            {"key": " Linguagem ", "value": "PHP |"},
+            {"key": " Banco de Dados ", "value": "MariaDB |"},
+            {"key": " Framework ", "value": "Yii |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": "IP ", "value": "  10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk ", "value": "100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.20"},
+            {"key": "Memória RAM ", "value": " 16GB"},
+            {"key": "Processador ", "value": "8 cores"},
+            {"key": "Hard Disk ", "value": " 300gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Framework Yii ", "value": " Versão do Yii 2.0.41"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": " Núcleo de Gestão de Documentos e Processos Disciplinares"},
+            {"key": "Responsável ", "value": " Heloísa Silva de Oliveira"},
+            {"key": "Contato ", "value": " heloisa.silva@cge.mg.gov.br"}
+        ]
+    },
+   
+    {
+        "name": "Consulta",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco de Dados ", "value": "MariaDB |"},
+            {"key": " Framework ", "value": "Yii |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+        "details": [               
+            {"key": "IP ", "value": "  10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk  ", "value": "100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.20"},
+            {"key": "Memória RAM ", "value": " 16GB"},
+            {"key": "Processador ", "value": "8 cores"},
+            {"key": "Hard Disk  ", "value": " 300gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Framework Yii ", "value": " Versão do Yii 2.0.18"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": " Diretoria de Tecnologia da Informação e Comunicação"},
+            {"key": "Responsável ", "value": " Nery Roberto I. Pope"},
+            {"key": "Contato ", "value": " nery.pope@cge.mg.gov.br"}
+        ]
+        
+       
+    },
+    {
+        "name": "Eventos",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Versão ", "value": "7.4 |"},
+            {"key": " Framework ", "value": "Yii |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk ", "value": " 100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.20"},
+            {"key": "Processador ", "value": "8 cores"},
+            {"key": "Memória RAM ", "value": " 16GB"},
+            {"key": "Hard Disk ", "value": " 300gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão: ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Framework Yii ", "value": " Versão do Yii 2.0.45"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": " Diretoria de Tecnologia da Informação e Comunicação"},
+            {"key": "Responsável ", "value": " Nery Roberto I. Pope"},
+            {"key": "Contato ", "value": " nery.pope@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "Sistema de Atendimento",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco De Dados ", "value": "MariaDB |"},
+            {"key": " Software ", "value": "GLPI |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": " IP ", "value": " 10.15.135.52"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk  ", "value": "60GB"},
+            {"key": "Memória RAM ", "value": "4GB"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.6.12"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Software ", "value": " GLPI"},
+            {"key": "Versão do GLPI ", "value": " 10.0.5"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": "   Diretoria de Tecnologia da Informação e Comunicação"},
+            {"key": "Responsável ", "value": " Nery Roberto I. Pope"},
+            {"key": "Contato ", "value": "  nery.pope@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "Intranet",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco de Dados ", "value": "MariaDB |"},
+            {"key": " CMS ", "value": "Joomla |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk ", "value": " 100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.22"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Memória RAM ", "value": " 4GB"},
+            {"key": "Hard Disk ", "value": " 60gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão: ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "CMS ", "value": " Joomla"},
+            {"key": "Versão do Joomla ", "value": " 3.9.11"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": "  Assessoria de Comunicação Social"},
+            {"key": "Responsável ", "value": " Ully Schreck"},
+            {"key": "Contato ", "value": " ully.schreck@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "LGPD",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco de Dados ", "value": "MariaDB |"},
+            {"key": " CMS ", "value": "Joomla |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk ", "value": " 100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.22"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Memória RAM ", "value": " 4GB"},
+            {"key": "Hard Disk ", "value": " 60gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "CMS ", "value": " Joomla"},
+            {"key": "Versão do Joomla ", "value": " 3.9.22"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": "  Superintendência Central de Transparência"},
+            {"key": "Responsável ", "value": " Beatriz Faria de Almeida Loureiro"},
+            {"key": "Contato ", "value": " beatriz.loureiro@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "Lista de Contatos",
+        "shortDetails": [
+            {"key": " Linguagem ", "value": "PHP |"},
+            {"key": " Versão ", "value": "7.4 |"},
+            {"key": " Framework ", "value": "Laravel |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk  ", "value": " 100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.20"},
+            {"key": "Processador ", "value": "8 cores"},
+            {"key": "Memória RAM ", "value": " 16GB"},
+            {"key": "Hard Disk  ", "value": " 300gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Framework Laravel ", "value": " Versão do Laravel X"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": " Diretoria de Tecnologia da Informação e Comunicação"},
+            {"key": "Responsável ", "value": " Nery Roberto I. Pope"},
+            {"key": "Contato ", "value": " nery.pope@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "Moodle - EAD CGE",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco De Dados ", "value": "MySQL |"},
+            {"key": " Software ", "value": "Moodle |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": " IP ", "value": " 10.15.135.34"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk  ", "value": "60GB"},
+            {"key": "Memória RAM ", "value": "4GB"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MySQL-8.0.32"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Software ", "value": " Moodle"},
+            {"key": "Versão do Moodle ", "value": " 3.6.6"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": "   Diretoria de Tecnologia da Informação e Comunicação"},
+            {"key": "Responsável ", "value": " Nery Roberto I. Pope"},
+            {"key": "Contato ", "value": "  nery.pope@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "PMPI",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco de Dados ", "value": "MariaDB |"},
+            {"key": " CMS ", "value": "Joomla |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk ", "value": " 100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.22"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Memória RAM ", "value": " 4GB"},
+            {"key": "Hard Disk ", "value": " 60gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "CMS ", "value": " Joomla"},
+            {"key": "Versão do Joomla ", "value": " 3.9.21"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": "   Superintendente Central de Integridade e Controle Social"},
+            {"key": "Responsável ", "value": " Tatiane de Jesus Silva"},
+            {"key": "Contato ", "value": " tatiane.silva@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "Portal - CGE",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco De Dados ", "value": "MariaDB |"},
+            {"key": " CMS ", "value": "Joomla |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": " IP ", "value": " 10.15.135.22"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk  ", "value": "100GB"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.22"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Memória RAM ", "value": " 4GB"},
+            {"key": "Hard Disk ", "value": " 60GB"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "CMS ", "value": " Joomla"},
+            {"key": "Versão do Joomla ", "value": " 3.8.7"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": "   Assessoria de Comunicação Social"},
+            {"key": "Responsável ", "value": " Ully Schreck"},
+            {"key": "Contato ", "value": "  ully.schreck@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "Atendimento DRH",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco De Dados ", "value": "MariaDB |"},
+            {"key": " Software ", "value": "GLPI |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": " IP ", "value": " 10.15.135.42"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk  ", "value": "100GB"},
+            {"key": "Memória RAM ", "value": "4 GB"}
+        ],
+
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.5.12"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Software ", "value": " GLPI"},
+            {"key": "Versão do GLPI ", "value": " 10.0.6"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": "   Diretoria de Tecnologia da Informação e Comunicação"},
+            {"key": "Responsável ", "value": " Nery Roberto I. Pope"},
+            {"key": "Contato ", "value": "  nery.pope@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "Sistema dos Conselhos",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco de Dados ", "value": "MariaDB |"},
+            {"key": " Framework ", "value": "Yii |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk ", "value": " 100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.20"},
+            {"key": "Memória RAM ", "value": " 16GB"},
+            {"key": "Processador ", "value": "8 cores"},
+            {"key": "Hard Disk  ", "value": " 300gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Framework Yii ", "value": " Versão do Yii 2.0.42"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": "  Diretoria Central de Controle Social"},
+            {"key": "Responsável ", "value": " Silvio César Zakhia Marani"},
+            {"key": "Contato ", "value": " silvio.zakhia@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "PORTAL DOS CONSELHOS",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco de Dados ", "value": "MariaDB |"},
+            {"key": " CMS ", "value": "Joomla |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk ", "value": " 100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.20"},
+            {"key": "Memória RAM ", "value": " 16GB"},
+            {"key": "Processador ", "value": "8 cores"},
+            {"key": "Hard Disk  ", "value": " 300gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "CMS ", "value": " Joomla"},
+            {"key": "Versão do Joomla ", "value": " 3.9.11"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": "  Diretoria Central de Controle Social"},
+            {"key": "Responsável ", "value": " Silvio César Zakhia Marani"},
+            {"key": "Contato ", "value": " silvio.zakhia@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "Reserva de Salas - Oitivas",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco de Dados ", "value": "MariaDB |"},
+            {"key": " Framework ", "value": "Yii |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk ", "value": " 100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.20"},
+            {"key": "Memória RAM ", "value": " 16GB"},
+            {"key": "Processador ", "value": "8 cores"},
+            {"key": "Hard Disk  ", "value": " 300gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Framework Yii ", "value": " Versão do Yii 2.0.47"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": " Diretoria de Tecnologia da Informação e Comunicação"},
+            {"key": "Responsável ", "value": " Nery Roberto I. Pope"},
+            {"key": "Contato ", "value": " nery.pope@cge.mg.gov.br"}
+        ]
+        
+    },
+    {
+        "name": "SISDEN (Antigo)",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Versão ", "value": "7.4 |"},
+            {"key": " Framework ", "value": "Yii |"},
+            {"key": " Versão ", "value": "3.0 "}
+        ],
+
+        "details": [               
+            {"key": "Application Name", "value": "My Application"},
+            {"key": "Application Version", "value": "1.0"},
+            {"key": "Currente Language", "value": "pt-BR (Brazil,Portuguese)"}
+        ]
+    },
+    {
+        "name": "SISDEN (Novo)",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco De Dados ", "value": "MariaDB |"},
+            {"key": " Framework ", "value": "Yii |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+        
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk  ", "value": " 100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.20"},
+            {"key": "Memória RAM ", "value": " 16GB"},
+            {"key": "Processador ", "value": "8 cores"},
+            {"key": "Hard Disk  ", "value": " 300gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Framework Yii ", "value": " Versão do Yii 2.0.44"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": " Assessoria e Estratégia e de Gestão de Riscos"},
+            {"key": "Responsável ", "value": " Omar Abreu Bacha"},
+            {"key": "Contato ", "value": "  omar.bacha@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "Sistema de Gestão de Demandas",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco De Dados ", "value": "MariaDB |"},
+            {"key": " Framework ", "value": "Laravel |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+        
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk  ", "value": " 100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.20"},
+            {"key": "Memória RAM ", "value": " 16GB"},
+            {"key": "Processador ", "value": "8 cores"},
+            {"key": "Hard Disk  ", "value": " 300gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Framework Laravel ", "value": " Versão do Laravel 4.2.22"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": " Diretoria de Tecnologia da Informação e Comunicação"},
+            {"key": "Responsável ", "value": " Nery Roberto I. Pope"},
+            {"key": "Contato ", "value": " nery.pope@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "Suporte SisPatri",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Banco De Dados ", "value": "MariaDB |"},
+            {"key": " CMS ", "value": "Joomla |"},
+            {"key": " Servidor ", "value": "Apache "}
+        ],
+
+        "details": [               
+            {"key": " IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk  ", "value": "100GB"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.22"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Memória RAM ", "value": " 4GB"},
+            {"key": "Hard Disk ", "value": " 60GB"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "CMS ", "value": " Joomla"},
+            {"key": "Versão do Joomla ", "value": " 3.9.25"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": "   Diretoria de Tecnologia da Informação e Comunicação"},
+            {"key": "Responsável ", "value": " Nery Roberto I. Pope"},
+            {"key": "Contato ", "value": "  nery.pope@cge.mg.gov.br"}
+        ]
+    },
+    {
+        "name": "SisAlerta",
+        "shortDetails": [
+            {"key": "Linguagem ", "value": "PHP |"},
+            {"key": " Bacno de Dados ", "value": "MariaDB |"},
+            {"key": " Framework ", "value": "Yii |"},
+            {"key": " Servidor ", "value": "Apache |"}
+            
+        ],
+        
+        "details": [               
+            {"key": "IP ", "value": " 10.15.135.19"},
+            {"key": "Processador ", "value": "4 cores"},
+            {"key": "Hard Disk  ", "value": " 100gb"}
+        ],
+        "detailserve": [
+            {"key": "IP ", "value": " 10.15.135.20"},
+            {"key": "Memória RAM ", "value": " 16GB"},
+            {"key": "Processador ", "value": "8 cores"},
+            {"key": "Hard Disk  ", "value": " 300gb"}
+        ],
+        "bancodados": [
+            {"key": "Versão ", "value": " MariaDB-10.3.17"}
+        ],
+        "application": [
+            {"key": "Linguagem PHP ", "value": " Versão do PHP 7.4"},
+            {"key": "Framework Yii ", "value": " Versão do Yii 2.0.47"}
+        ],
+        "responsaveis": [
+            {"key": "Setor ", "value": " Diretoria de Tecnologia da Informação e Comunicação"},
+            {"key": "Responsável ", "value": " Nery Roberto I. Pope"},
+            {"key": "Contato ", "value": " nery.pope@cge.mg.gov.br"}
+        ]
+    }
+
+]

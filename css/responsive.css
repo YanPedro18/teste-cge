@@ -1,0 +1,71 @@
+    @media only screen and (max-width: 1281px) {
+        .btn > a{
+        position: fixed;
+        width: 13%;
+        top: 46em;
+        left: 1em;    
+    }
+
+    }
+    @media only screen and (max-width: 835px) {
+        .btn > a{
+        position: fixed;
+        width: 18%;
+        top: 49em;
+        left: 1em;    
+    }
+
+    }
+
+
+    @media only screen and (max-width: 430px) and (min-width: 350px) {
+    .btn > a{
+        font-size: 1em;
+        position: fixed;
+        width: 32%;
+        top: 50em;
+        left: 1em;
+    }
+    .head > h1 {
+    font-size: 1.6rem;       
+    }
+    .modal {
+        border-radius: 0.3rem;
+        width: 98%;
+        margin: 0 auto;
+        inset: 0%;
+        z-index: 999;
+        border-top: 0.5rem rgb(190, 33, 44) solid;
+        transform: translateY(60px);
+    }
+
+    .modal > .table {
+        margin: 0 auto;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+        .close-position {
+        position: fixed !important;
+        transform: translateX(8.5rem);
+    }
+    .close-position:hover {
+        border-radius: 50px;
+        background-color: #ccc;
+    }
+    a.material-symbols-outlined {
+        font-size: 39px;
+    }
+    #btnscrollToTop > span {
+        transform: translateY(5px);
+    }
+    .modal > h1 {
+        font-size: 1.4rem;
+        margin-bottom: 1.5rem;
+    }
+    #btnscrollToTop {
+        bottom: 75px;
+        right: 22px;
+        padding: 0 5px 35px 5px;
+    }
+    }
